@@ -53,7 +53,7 @@ To find the best jobs , we grouped data by Jobs and found their median salary an
 
 [File for Analysis of Q1(Python Code)](https://github.com/anmol112/Python\_data\_project/blob/main/best\_job.ipynb)
 
-### Visualisation \- [Python\_data\_project/plots/new plots/Best jobs in software and data.png at main · anmol112/Python\_data\_project (github.com)](https://github.com/anmol112/Python\_data\_project/blob/main/plots/new%20plots/Best%20jobs%20in%20software%20and%20data.png)
+### Visualisation \- ![Python\_data\_project/plots/new plots/Best jobs in software and data.png at main · anmol112/Python\_data\_project (github.com)](https://github.com/anmol112/Python\_data\_project/blob/main/plots/new%20plots/Best%20jobs%20in%20software%20and%20data.png)
 
 ### Insights \- 
 
@@ -67,7 +67,7 @@ To find the most demanded skills for the top 3 most popular data roles. I filter
 
 ### [File for Analysis of Q1(Python Code)](https://github.com/anmol112/Python\_data\_project/blob/main/data\_3\_jobs\_skills\_DA\_DS\_DE.ipynb) \- 
 
-### Visualisation \- [Python\_data\_project/plots/new plots/A\_DS\_DE\_skills\_occurance\_likelyhood.png at main · anmol112/Python\_data\_project (github.com)](https://github.com/anmol112/Python\_data\_project/blob/main/plots/new%20plots/A\_DS\_DE\_skills\_occurance\_likelyhood.png)
+### Visualisation \- ![Python\_data\_project/plots/new plots/A\_DS\_DE\_skills\_occurance\_likelyhood.png at main · anmol112/Python\_data\_project (github.com)](https://github.com/anmol112/Python\_data\_project/blob/main/plots/new%20plots/A\_DS\_DE\_skills\_occurance\_likelyhood.png)
 
 ### Insights \- 
 
@@ -84,7 +84,7 @@ To find how skills are trending in 2023 for Data Analysts, I filtered data analy
 
 ### 
 
-### Visualisation \- [Python\_data\_project/plots/new plots/skills\_trending\_da.png at main · anmol112/Python\_data\_project (github.com)](https://github.com/anmol112/Python\_data\_project/blob/main/plots/new%20plots/skills\_trending\_da.png)
+### Visualisation \- ![Python\_data\_project/plots/new plots/skills\_trending\_da.png at main · anmol112/Python\_data\_project (github.com)](https://github.com/anmol112/Python\_data\_project/blob/main/plots/new%20plots/skills\_trending\_da.png)
 
 ### Insights \-
 
@@ -98,7 +98,7 @@ To identify the highest-paying roles and skills, I only got jobs in the United S
 
 [File for Analysis of Q3(Python Code)](https://github.com/anmol112/Python\_data\_project/blob/main/Data\_best\_jobs.ipynb) 
 
-### Visualisation \- [Python\_data\_project/plots/new plots/Salary Distribution of data jobs.png at main · anmol112/Python\_data\_project (github.com)](https://github.com/anmol112/Python\_data\_project/blob/main/plots/new%20plots/Salary%20Distribution%20of%20data%20jobs.png)
+### Visualisation \- ![Python\_data\_project/plots/new plots/Salary Distribution of data jobs.png at main · anmol112/Python\_data\_project (github.com)](https://github.com/anmol112/Python\_data\_project/blob/main/plots/new%20plots/Salary%20Distribution%20of%20data%20jobs.png)
 
 ### Insights \-
 
@@ -114,7 +114,7 @@ Next, I narrowed my analysis and focused only on data analyst roles. I looked at
 
 [File for Analysis of Q4(Python Code)](https://github.com/anmol112/Python\_data\_project/blob/main/best\_skills\_DA.ipynb) 
 
-### Visualisation \- [Python\_data\_project/plots/new plots/Data Analyst best skills.png at main · anmol112/Python\_data\_project (github.com)](https://github.com/anmol112/Python\_data\_project/blob/main/plots/new%20plots/Data%20Analyst%20best%20skills.png)
+### Visualisation \- ![Python\_data\_project/plots/new plots/Data Analyst best skills.png at main · anmol112/Python\_data\_project (github.com)](https://github.com/anmol112/Python\_data\_project/blob/main/plots/new%20plots/Data%20Analyst%20best%20skills.png)
 
 ### 
 
@@ -132,7 +132,7 @@ To identify the most optimal skills to learn ( the ones that are the highest pai
 
 [File for Analysis of Q3(Python Code)](https://github.com/anmol112/Python\_data\_project/blob/main/Optimal\_skills.ipynb) 
 
-### Visualisation \- [Python\_data\_project/plots/new plots/optimal Skills.png at main · anmol112/Python\_data\_project (github.com)](https://github.com/anmol112/Python\_data\_project/blob/main/plots/new%20plots/optimal%20Skills.png)
+### Visualisation \- ![Python\_data\_project/plots/new plots/optimal Skills.png at main · anmol112/Python\_data\_project (github.com)](https://github.com/anmol112/Python\_data\_project/blob/main/plots/new%20plots/optimal%20Skills.png)
 
 ### Insights \- 
 
